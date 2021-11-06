@@ -1,0 +1,153 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				-130
+			],
+			"fps": 24,
+			"anim": "LEFT",
+			"indices": [],
+			"name": "LEFT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-118
+			],
+			"fps": 24,
+			"anim": "Down",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				180
+			],
+			"fps": 24,
+			"anim": "Up",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-93
+			],
+			"fps": 24,
+			"anim": "Right",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-220
+			],
+			"fps": 24,
+			"anim": "idl?",
+			"indices": [],
+			"name": "idl?"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-220
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				42,
+				-125
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "singLEFT",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				40,
+				-133
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "singRIGHT",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				4,
+				-120
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "singUP",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		},
+		{
+			"offsets": [
+				140,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "WhatYouKnowAboutRollingDownInTheDeep"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/EBM2_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		-125
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
